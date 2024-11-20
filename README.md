@@ -77,15 +77,9 @@ Jurusan ini membantu saya mendalami perancangan sistem informasi dan bisnis, nam
   <img alt="fuadamsyari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadamsyari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 </a>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <a href="https://github.com/fuadamsyari">
   <img alt="fuadamsyari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=fuadamsyari&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
-
-
-![Fuad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuadamsyari&show_icons=true&theme=radical)
-![Fuad's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fuadamsyari&theme=github)
 
 ---
 
