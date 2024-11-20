@@ -25,9 +25,8 @@ Jurusan ini membantu saya mendalami perancangan sistem informasi dan bisnis, nam
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs)](https://skillicons.dev)
 
 #### **Tools and Framework**
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
-
 [![Tools](https://skillicons.dev/icons?i=laravel,nodejs,bootstrap,tailwind,git,bash)](https://skillicons.dev)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
 
 
 ### **Software dan Alat**
