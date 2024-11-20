@@ -53,12 +53,23 @@ Tentu! Berikut adalah versi daftar teknologi Anda dengan ikon yang relevan:
 
 
 ### 🌐 Akun Saya
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-**Github**: [fuadamsyari](https://github.com/fuadamsyari)
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white) **Instagram**: [@fuadamsyr](https://www.instagram.com/fuadamsyr)
-![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white) **Facebook**: [Ahmad Fuad Amsyari](https://www.facebook.com/ahmadfuadamsyari)
-![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white) **YouTube**: [Fuad Amsyari](https://www.youtube.com/FuadAmsyari)
-![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white) **TikTok**: [@fuadamsyr](https://www.tiktok.com/@fuadamsyr)
+<p align="left">
+  <a href="https://github.com/fuadamsyari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/fuadamsyr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/ahmadfuadamsyari" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.youtube.com/FuadAmsyari" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.tiktok.com/@fuadamsyr" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
 
 
 ### Akun Saya 🌐
