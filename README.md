@@ -38,18 +38,21 @@ Tentu! Berikut adalah versi daftar teknologi Anda dengan ikon yang relevan:
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,stackoverflow,windows,ai)](https://skillicons.dev)
 
 ### **Database dan Local Server**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-- ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)  
-- ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white)  
-- ![Laragon](https://img.shields.io/badge/-Laragon-0E83CD?logo=windows&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white" alt="XAMPP">
+  <img src="https://img.shields.io/badge/-Laragon-0E83CD?logo=windows&logoColor=white" alt="Laragon">
+</p>
 
 ### **Multimedia**
-- ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-46A02A?logo=coreldraw&logoColor=white)  
-- ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)  
-- ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white)  
-- ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)  
-- ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/-CorelDRAW-46A02A?logo=coreldraw&logoColor=white" alt="CorelDRAW">
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white" alt="Lightroom">
+  <img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" alt="Illustrator">
+</p>
 
 
 ### 🌐 Akun Saya
@@ -70,14 +73,6 @@ Tentu! Berikut adalah versi daftar teknologi Anda dengan ikon yang relevan:
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </p>
-
-
-### Akun Saya 🌐
-- **GitHub**: [fuadamsyari](https://github.com/fuadamsyari)  
-- **Instagram**: [@fuadamsyr](https://www.instagram.com/fuadamsyr)  
-- **Facebook**: [Ahmad Fuad Amsyari](https://www.facebook.com/ahmadfuadamsyari)  
-- **YouTube**: [Fuad Amsyari](https://www.youtube.com/FuadAmsyari)  
-- **TikTok**: [@fuadamsyr](https://www.tiktok.com/@fuadamsyr)  
 
 ### GitHub Stats 📊
 ![Fuad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuadamsyari&show_icons=true&theme=radical)
