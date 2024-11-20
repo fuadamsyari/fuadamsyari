@@ -19,10 +19,6 @@ Jurusan ini membantu saya mendalami perancangan sistem informasi dan bisnis, nam
 
 ### Teknologi yang Saya Kuasai dan Pelajari
 
-Tentu! Berikut adalah versi daftar teknologi Anda dengan ikon yang relevan:
-
----
-
 ### 👨‍💻 Programming and Markup Languages
 
 
