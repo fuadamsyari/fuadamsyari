@@ -17,6 +17,9 @@ Saya adalah seorang mahasiswa sekaligus pelaku usaha kecil mandiri yang juga bek
 Saya mulai mengenal coding sejak kelas 12 SMK, ketika belajar dasar-dasar HTML dan PHP. Setelah lulus, saya bekerja di toko printer dan reparasi selama setengah tahun, sebelum memutuskan untuk kuliah di Universitas Terbuka jurusan Sistem Informasi.  
 Jurusan ini membantu saya mendalami perancangan sistem informasi dan bisnis, namun saya tetap mempelajari pemrograman secara mandiri hingga saat ini.
 
+![](https://komarev.com/ghpvc/?username=fuadamsyari&color=blueviolet&style=for-the-badge)
+<br/>
+
 ### Teknologi yang Saya Kuasai dan Pelajari
 
 ### 👨‍💻 Programming and Markup Languages
