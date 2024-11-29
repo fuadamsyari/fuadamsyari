@@ -14,8 +14,7 @@ Saya adalah seorang mahasiswa sekaligus pelaku usaha kecil mandiri yang juga bek
 
 ### Perjalanan Karier dan Pendidikan
 
-Saya mulai mengenal coding sejak kelas 12 SMK, ketika belajar dasar-dasar HTML dan PHP. Setelah lulus, saya bekerja di toko printer dan reparasi selama setengah tahun, sebelum memutuskan untuk kuliah di Universitas Terbuka jurusan Sistem Informasi.  
-Jurusan ini membantu saya mendalami perancangan sistem informasi dan bisnis, namun saya tetap mempelajari pemrograman secara mandiri hingga saat ini.
+Saya mulai mengenal coding sejak kelas 12 SMK, ketika itu masih belajar dasar-dasar HTML dan PHP. Setelah lulus SMK, saya bekerja di toko printer dan reparasi, setelah memiliki penghasilan dari kerja setenagh tahun, saya memutuskan untuk kuliah di Universitas Terbuka jurusan Sistem Informasi dan juga bekerja sebagai Teknisi. Setelah 2 tahun ikut kerja di perusahaan swasta milik oranglain, saya memustuskan untuk membuka usaha saya sendiri sambil meneruskan kuliah saya. Jurusan ini membantu saya mendalami perancangan sistem informasi dan bisnis, saya masih ingin dan antusias mendalami ilmu di bidang teknologi sampai saat ini.
 
 ![](https://komarev.com/ghpvc/?username=fuadamsyari&color=blueviolet&style=for-the-badge)
 <br/>
